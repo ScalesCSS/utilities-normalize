@@ -7,18 +7,11 @@ The project relies on researching the differences between default browser
 styles in order to precisely target only the styles that need or benefit from
 normalizing.
 
-[View the test file](http://necolas.github.io/normalize.css/latest/test.html)
-
-## Install
-
-* [npm](http://npmjs.org/): `npm install --save normalize.css`
-* [Component(1)](https://github.com/component/component/): `component install necolas/normalize.css`
-* [Bower](http://bower.io/): `bower install --save normalize.css`
-* [Download](http://necolas.github.io/normalize.css/latest/normalize.css).
+## Usage
 
 No other styles should come before Normalize.css.
 
-It is recommended that you include the `normalize.css` file as untouched
+It is recommended that you include the `_normalize.scss` file as untouched
 library code.
 
 ## What does it do?
@@ -78,10 +71,6 @@ showing past searches).
 
 Adding `border: 0` corrects an IE 8–11 bug where `color` (yes, `color`) is not
 inherited by `legend`.
-
-## Contributing
-
-Please read the CONTRIBUTING.md
 
 ## Acknowledgements
 
