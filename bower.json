@@ -1,0 +1,21 @@
+{
+  "name": "scales-utilities-normalize",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ScalesCSS/utilities-normalize",
+  "author": "Dave Gillhespy",
+  "description": "A collection of HTML element and attribute style-normalizations for Scales CSS",
+  "main": "_normalize.scss",
+  "keywords": [
+    "[css",
+    "scalescss",
+    "scales",
+    "sass",
+    "scss",
+    "normalize",
+    "framework]"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
