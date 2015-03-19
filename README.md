@@ -7,6 +7,10 @@ The project relies on researching the differences between default browser
 styles in order to precisely target only the styles that need or benefit from
 normalizing.
 
+## Installation
+
+* [Bower](http://bower.io/): `bower install --save scales-utilities-normalize`
+
 ## Usage
 
 No other styles should come before Normalize.css.
