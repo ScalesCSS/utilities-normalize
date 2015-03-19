@@ -1,6 +1,6 @@
 {
   "name": "scales-utilities-normalize",
-  "version": "1.0.0",
+  "version": "3.0.3",
   "homepage": "https://github.com/ScalesCSS/utilities-normalize",
   "author": "Dave Gillhespy",
   "description": "A collection of HTML element and attribute style-normalizations for Scales CSS",
