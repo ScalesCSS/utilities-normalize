@@ -9,6 +9,7 @@ normalizing.
 
 ## Installation
 
+* [NPM](http://npmjs.com): `npm install --save scales-utilities-normalize`
 * [Bower](http://bower.io/): `bower install --save scales-utilities-normalize`
 
 ## Usage
