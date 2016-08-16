@@ -1,6 +1,6 @@
 {
   "name": "scales-utilities-normalize",
-  "version": "3.1.0",
+  "version": "4.2.0",
   "description": "A collection of HTML element and attribute style-normalizations for Scales CSS",
   "main": "_normalize.scss",
   "scripts": {
